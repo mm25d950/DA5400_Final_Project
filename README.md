@@ -2,10 +2,6 @@
 
 Implementation and analysis of adaptive instance-level reweighting for imbalanced classification on Credit Card Fraud and Mammography datasets.
 
-<p align="center">
-  <img src="figures/workflow.png" width="900">
-</p>
-
 ---
 
 # Repository Structure
