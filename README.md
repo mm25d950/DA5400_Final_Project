@@ -221,10 +221,18 @@ pip install -r requirements.txt
 
 ---
 
-# Run Notebook
+# Run Notebooks
+
+## Credit Card Fraud Dataset
 
 ```bash
-jupyter notebook notebooks/DA5400_Adaptive_Reweighting.ipynb
+jupyter notebook notebooks/final_credit_card_fraud_dataset_code.ipynb
+```
+
+## Mammography Dataset
+
+```bash
+jupyter notebook notebooks/final_mammography_dataset_code.ipynb
 ```
 
 ---
