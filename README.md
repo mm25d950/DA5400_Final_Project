@@ -120,7 +120,7 @@ Framework implemented using:
 ## ROC and PR Curves
 
 <p align="center">
-  <img src="figures/creditcard_results.png" width="900">
+  <img src="figures/Credit%20Card%20Fraud/credit_roc_pr.png" width="900">
 </p>
 
 ## Confusion Matrices
