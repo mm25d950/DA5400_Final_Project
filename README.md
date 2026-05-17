@@ -38,7 +38,7 @@ Applications include:
 | Mammography | 11,183 | 6 | 260 | 42:1 |
 
 ---
-# Dataset Access
+# Dataset Access (Important Note)
 
 - Credit Card Fraud dataset is automatically downloaded from the TensorFlow/OpenML source inside the notebook.
 - Mammography dataset is provided locally for experimentation.
