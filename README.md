@@ -294,7 +294,7 @@ Main libraries used:
 
 If you use this repository, please cite the original research paper:
 
-> “A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty”
+> “S. Yu, J. Guo, R. Zhang, Y. Fan, Z. Wang and X. Cheng, "A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 70-79, doi: 10.1109/CVPR52688.2022.00017.”
 
 ---
 
