@@ -9,13 +9,21 @@ Implementation and analysis of adaptive instance-level reweighting for imbalance
 ```text
 DA5400_Final_Project/
 │
-├── figures/                 # Result visualizations and plots
-├── notebooks/               # Jupyter notebook implementation
-├── report/                  # Final report PDF
-├── presentation/            # Presentation PDF/PPT
-├── requirements.txt         # Python dependencies
-├── README.md
-└── LICENSE
+├── code_notebooks/                  # Jupyter notebook implementations
+│
+├── datasets/                        # Local datasets used in experiments
+│
+├── figures/                         # Experimental result figures and workflow
+│
+├── presentation/                    # Final presentation slides
+│
+├── report/                          # Final project report
+│
+├── README.md                        # Project overview and results
+│
+├── requirements.txt                 # Python package dependencies
+│
+└── LICENSE                          # MIT license
 ```
 
 ---
