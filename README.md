@@ -37,7 +37,7 @@ Proposed variants:
 DA5400_Final_Project/
 │
 ├── figures/                 # Result visualizations and plots
-├── notebooks/               # Jupyter notebook implementation
+├── code_notebooks/               # Jupyter notebook implementation
 ├── report/                  # Final report PDF
 ├── presentation/            # Presentation PDF/PPT
 ├── requirements.txt         # Python dependencies
