@@ -286,7 +286,7 @@ Main libraries used:
 
 # Video Presentation
 
-[Project Presentation Video]([https://drive.google.com/file/d/1ux9BV_TWCee37ovUl72bzYoOIoyc0xaE/view?usp=sharing])
+[Project Presentation Video](https://drive.google.com/file/d/1ux9BV_TWCee37ovUl72bzYoOIoyc0xaE/view?usp=sharing)
 
 ---
 
