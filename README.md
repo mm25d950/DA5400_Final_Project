@@ -1,59 +1,33 @@
 # Adaptive Instance-Level Reweighting for Imbalanced Classification
 
+Implementation and evaluation of adaptive instance-level reweighting for imbalanced classification on Credit Card Fraud and Mammography datasets.
+
+---
+
 ## Overview
 
-This project implements and evaluates the research paper:
+This project implements and experimentally evaluates the research paper:
 
 > “A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty”
 
-The objective is to study adaptive instance-level reweighting for imbalanced classification problems and compare its performance against standard machine learning baselines.
+The objective is to improve minority-class detection using adaptive instance-level weighted sampling based on sample learning difficulty.
 
-The experiments were conducted on two real-world imbalanced datasets:
+The framework is evaluated on:
+
 - Credit Card Fraud Detection Dataset
 - Mammography Dataset
 
-In addition to reproducing the original proposed method, two extensions were also explored:
-- Weighted-loss extension
-- Ensemble learning extension
+Baseline models:
 
----
-
-## Baseline Models
-
-The following machine learning algorithms were used for comparison:
-- Logistic Regression
+- Logistic Regression (LR)
 - Support Vector Machine (SVM)
 - Random Forest (RF)
 
----
+Proposed variants:
 
-## Proposed Variants
-
-- Proposed Adaptive Reweighting
+- Adaptive Reweighting
 - Weighted-Loss Extension
 - Ensemble Extension
-
----
-
-## Evaluation Metrics
-
-The models were evaluated using:
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- ROC-AUC
-- PR-AUC
-
-PR-AUC was treated as an important metric for highly imbalanced datasets.
-
----
-
-## Main Observations
-
-- Weighted-loss extension achieved strong PR-AUC performance on the highly imbalanced Credit Card Fraud dataset.
-- Ensemble extension achieved the best overall performance on the Mammography dataset.
-- Adaptive instance-level weighting achieved competitive minority-class detection performance without explicit oversampling or undersampling.
 
 ---
 
@@ -62,29 +36,10 @@ PR-AUC was treated as an important metric for highly imbalanced datasets.
 ```text
 DA5400_Final_Project/
 │
-├── figures/
-├── datasets/
-├── src/
-├── credit_card_experiments.ipynb
-├── mammography_experiments.ipynb
-├── final_report.pdf
-└── README.md
-```
-
----
-
-## Requirements
-
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Author
-
-Ankit Gangwar  
-Ph.D Scholar, IIT Madras  
-mm25d950@smail.iitm.ac.in
+├── figures/                 # Result visualizations and plots
+├── notebooks/               # Jupyter notebook implementation
+├── report/                  # Final report PDF
+├── presentation/            # Presentation PDF/PPT
+├── requirements.txt         # Python dependencies
+├── README.md
+└── LICENSE
