@@ -19,8 +19,6 @@ DA5400_Final_Project/
 │
 ├── report/                          # Final project report
 │
-├── video_presentation/              # Final video presentation recording
-│
 ├── README.md                        # Project overview and results
 │
 ├── requirements.txt                 # Python package dependencies
@@ -283,6 +281,12 @@ Main libraries used:
 - Final Report PDF
 - Presentation Slides
 - Video Presentation
+
+---
+
+# Video Presentation
+
+[Project Presentation Video](https://drive.google.com/your_link)
 
 ---
 
