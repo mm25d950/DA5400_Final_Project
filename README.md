@@ -49,9 +49,9 @@ The proposed framework dynamically estimates sample difficulty during training a
 
 ## Adaptive Sampling Probability
 
-\[
+$$
 w_i = \frac{Difficulty_i}{\sum_j Difficulty_j}
-\]
+$$
 
 Samples that remain difficult receive higher importance during later training iterations.
 
