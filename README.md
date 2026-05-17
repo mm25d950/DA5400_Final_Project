@@ -120,19 +120,23 @@ Framework implemented using:
 ## ROC and PR Curves
 
 <p align="center">
-  <img src="figures/Credit%20Card%20Fraud/credit_roc_pr.png" width="900">
+  <img src="figures/Credit Card Fraud/credit_roc_pr.png" width="900">
 </p>
 
 ## Confusion Matrices
 
 <p align="center">
-  <img src="figures/creditcard_confusion.png" width="750">
+  <img src="figures/Credit Card Fraud/credit_rf_cm.png" width="750">
+</p>
+
+<p align="center">
+  <img src="figures/Credit Card Fraud/credit_weighted_cm.png" width="750">
 </p>
 
 ## Threshold Analysis
 
 <p align="center">
-  <img src="figures/creditcard_threshold.png" width="700">
+  <img src="figures/Credit Card Fraud/credit_threshold.png" width="700">
 </p>
 
 ### Key Observations
@@ -159,19 +163,23 @@ Framework implemented using:
 ## ROC and PR Curves
 
 <p align="center">
-  <img src="figures/mammography_results.png" width="900">
+  <img src="figures/Mammography/mammo_roc_pr.png" width="900">
 </p>
 
 ## Confusion Matrices
 
 <p align="center">
-  <img src="figures/mammography_confusion.png" width="750">
+  <img src="figures/Mammography/mammo_rf_cm.png" width="750">
+</p>
+
+<p align="center">
+  <img src="figures/Mammography/mammo_ensemble_cm.png" width="750">
 </p>
 
 ## Threshold Analysis
 
 <p align="center">
-  <img src="figures/mammography_threshold.png" width="700">
+  <img src="figures/Mammography/mammo_threshold.png" width="700">
 </p>
 
 ### Key Observations
